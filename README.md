@@ -1,5 +1,5 @@
 # Conway's Game Of Life
- A simple version of Conway's Game of Life that I implemented into vanilla Javascript.
+ A simple version of Conway's Game of Life that I implemented into vanilla Javascript using the HTML5 Canvas.
 
 # To come eventually:
 - Version that allows manual input of tiles
